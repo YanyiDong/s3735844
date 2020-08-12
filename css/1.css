@@ -1,0 +1,47 @@
+.wel{
+    font-size: 80px;
+    padding-left:7%;
+}
+
+.topic{
+    position:relative;
+    right:0;
+    background-color:#85C1E9;
+    width:10%;
+    height:2000px;
+    float: left;
+    overflow: hidden;
+}
+   
+
+.pic{
+    position: relative;
+    left:0px;
+    padding-left:15%;
+}
+.a1 {
+
+padding-left:20px;
+border:solid;
+border-color:#000000;
+background-color:#F9E79F;
+font-size:20px;
+float:top;
+overflow: hidden;
+width: 77.9%;
+height: 2000px;
+
+
+}
+
+.a2 {
+    position: relative;
+    left:0px;
+    padding-left:0;
+    background-color:#85C1E9;
+    width:10%;
+    height:2000px;
+    float:right;
+    overflow: hidden;
+    margin-top: -2007px;
+}
