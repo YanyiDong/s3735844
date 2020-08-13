@@ -8,7 +8,7 @@
     right:0;
     background-color:#85C1E9;
     width:10%;
-    height:2000px;
+    height:4000px;
     float: left;
     overflow: hidden;
 }
@@ -29,7 +29,7 @@ font-size:20px;
 float:top;
 overflow: hidden;
 width: 77.9%;
-height: 2000px;
+height: 4000px;
 
 
 }
@@ -40,8 +40,30 @@ height: 2000px;
     padding-left:0;
     background-color:#85C1E9;
     width:10%;
-    height:2000px;
+    height:4000px;
     float:right;
     overflow: hidden;
-    margin-top: -2007px;
+    margin-top: -4007px;
+}
+.b1{
+    width: 320;
+    height: 640;
+    font-size: x-small;
+
+}
+.a3{
+    width: 55%;
+    position: absolute;
+    left:33%;
+    margin-top:-45%;
+    padding-left:1%;
+    
+
+}
+.a4{
+    width: 55%;
+    position: absolute;
+    left:33%;
+    margin-top:-45%;
+    padding-left:1%; 
 }
