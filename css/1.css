@@ -8,7 +8,7 @@
     right:0;
     background-color:#85C1E9;
     width:10%;
-    height:4000px;
+    height:5500px;
     float: left;
     overflow: hidden;
 }
@@ -29,7 +29,7 @@ font-size:20px;
 float:top;
 overflow: hidden;
 width: 77.9%;
-height: 4000px;
+height: 5500px;
 
 
 }
@@ -40,10 +40,10 @@ height: 4000px;
     padding-left:0;
     background-color:#85C1E9;
     width:10%;
-    height:4000px;
+    height:5500px;
     float:right;
     overflow: hidden;
-    margin-top: -4007px;
+    margin-top: -5507px;
 }
 .b1{
     position: absolute;
@@ -64,15 +64,29 @@ height: 4000px;
     width: 50%;
     position: absolute;
     left:37%;
-    margin-top:o;
+    margin-top:0;
     padding-left:1%;
     
 
 }
 .a4{
+    background-color:#85bdeb;
+    border: solid;
+    border-color:#0cf581;
     width: 55%;
     position: relative;
-    top: 20%;
-   
-    padding-left:1%; 
+    top: 13%;
+    padding-left:2%; 
+}
+.a5{
+    width: 100%;
+    position: relative;
+    top: 13%;
+    padding-left:0%;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+
+
 }
