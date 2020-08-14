@@ -46,24 +46,33 @@ height: 4000px;
     margin-top: -4007px;
 }
 .b1{
+    position: absolute;
+   
     width: 320;
     height: 640;
     font-size: x-small;
 
 }
+.b2{
+    position: relative;
+    top: 20%;
+    width: 320;
+    height: 640;
+    font-size: x-small;
+}
 .a3{
-    width: 55%;
+    width: 50%;
     position: absolute;
-    left:33%;
-    margin-top:-45%;
+    left:37%;
+    margin-top:o;
     padding-left:1%;
     
 
 }
 .a4{
     width: 55%;
-    position: absolute;
-    left:33%;
-    margin-top:-45%;
+    position: relative;
+    top: 20%;
+   
     padding-left:1%; 
 }
