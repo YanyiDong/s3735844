@@ -8,7 +8,7 @@
     right:0;
     background-color:#85C1E9;
     width:10%;
-    height:5500px;
+    height:4400px;
     float: left;
     overflow: hidden;
 }
@@ -29,7 +29,7 @@ font-size:20px;
 float:top;
 overflow: hidden;
 width: 77.9%;
-height: 5500px;
+height: 4400px;
 
 
 }
@@ -40,10 +40,10 @@ height: 5500px;
     padding-left:0;
     background-color:#85C1E9;
     width:10%;
-    height:5500px;
+    height:4400px;
     float:right;
     overflow: hidden;
-    margin-top: -5507px;
+    margin-top: -4407px;
 }
 .b1{
     position: absolute;
@@ -75,13 +75,13 @@ height: 5500px;
     border-color:#0cf581;
     width: 55%;
     position: relative;
-    top: 13%;
+    top: 17%;
     padding-left:2%; 
 }
 .a5{
     width: 100%;
     position: relative;
-    top: 13%;
+    top: 16.5%;
     padding-left:0%;
     font-size:20px;
     font-family: 'Times New Roman', Times, serif;
